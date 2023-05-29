@@ -380,6 +380,8 @@ padding: 20px 10px;
   color: #f02d34;
   cursor: pointer;
   background: transparent;
+  float: right;
+  
   border: none;
 }
 .cart-bottom{
